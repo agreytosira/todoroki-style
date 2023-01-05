@@ -1,0 +1,21 @@
+{
+  "name": "todoroki-style",
+  "displayName": "Todoroki Style",
+  "description": "Shoto Todoroki by BNHA style",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.74.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Todoroki Style",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Todoroki Style-color-theme.json"
+      }
+    ]
+  }
+}
